@@ -5,10 +5,15 @@ Streamline your server management with this powerful menu that gives you instant
 ✨ Key Features:
 
 📦 Access to all items with their images
+
 ⚡ Real-time sync with the database
+
 👤 Give items to yourself or other players using their ID
+
 🔐 Admin-only access for security
+
 ⚙️ Easily configure which groups can access the menu
+
 🔓 Includes full source code access
 Manage your server faster, smarter, and more efficiently.
 
